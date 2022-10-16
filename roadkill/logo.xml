@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RoadKillMasterFLA.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ROADKILLLOGO0000" x="0" y="0" width="1317" height="476" frameX="0" frameY="0" frameWidth="1317" frameHeight="477"/>
+	<SubTexture name="ROADKILLLOGO0001" x="0" y="486" width="1317" height="477"/>
+</TextureAtlas>
