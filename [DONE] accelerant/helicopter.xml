@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="helicopter.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Helicopter0000" x="0" y="0" width="686" height="442" frameX="0" frameY="-2" frameWidth="783" frameHeight="444"/>
+	<SubTexture name="Helicopter0001" x="0" y="452" width="771" height="444" frameX="-12" frameY="0" frameWidth="783" frameHeight="444"/>
+</TextureAtlas>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AccelerantMasterFLA.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="accelerant instance 10000" x="0" y="0" width="1545" height="450" frameX="0" frameY="-1" frameWidth="1545" frameHeight="451"/>
+	<SubTexture name="accelerant instance 10001" x="0" y="460" width="1416" height="451" frameX="0" frameY="0" frameWidth="1545" frameHeight="451"/>
+</TextureAtlas>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ChallengEDDMasterFLA.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TomWalkingBy0000" x="0" y="0" width="140" height="313" frameX="-19" frameY="-2" frameWidth="159" frameHeight="320"/>
+	<SubTexture name="TomWalkingBy0001" x="150" y="0" width="140" height="313" frameX="-19" frameY="-2" frameWidth="159" frameHeight="320"/>
+	<SubTexture name="TomWalkingBy0002" x="300" y="0" width="135" height="306" frameX="-22" frameY="-11" frameWidth="159" frameHeight="320"/>
+	<SubTexture name="TomWalkingBy0003" x="445" y="0" width="135" height="306" frameX="-22" frameY="-11" frameWidth="159" frameHeight="320"/>
+	<SubTexture name="TomWalkingBy0004" x="590" y="0" width="132" height="304" frameX="-25" frameY="-14" frameWidth="159" frameHeight="320"/>
+	<SubTexture name="TomWalkingBy0005" x="732" y="0" width="132" height="304" frameX="-25" frameY="-14" frameWidth="159" frameHeight="320"/>
+	<SubTexture name="TomWalkingBy0006" x="874" y="0" width="140" height="296" frameX="-14" frameY="-3" frameWidth="159" frameHeight="320"/>
+	<SubTexture name="TomWalkingBy0007" x="0" y="323" width="140" height="295" frameX="-14" frameY="-4" frameWidth="159" frameHeight="320"/>
+	<SubTexture name="TomWalkingBy0008" x="150" y="323" width="156" height="307" frameX="0" frameY="0" frameWidth="159" frameHeight="320"/>
+	<SubTexture name="TomWalkingBy0009" x="316" y="323" width="156" height="307" frameX="0" frameY="0" frameWidth="159" frameHeight="320"/>
+	<SubTexture name="TomWalkingBy0010" x="482" y="323" width="151" height="305" frameX="-5" frameY="-11" frameWidth="159" frameHeight="320"/>
+	<SubTexture name="TomWalkingBy0011" x="643" y="323" width="151" height="305" frameX="-5" frameY="-11" frameWidth="159" frameHeight="320"/>
+	<SubTexture name="TomWalkingBy0012" x="804" y="323" width="136" height="308" frameX="-20" frameY="-12" frameWidth="159" frameHeight="320"/>
+	<SubTexture name="TomWalkingBy0013" x="0" y="641" width="135" height="308" frameX="-20" frameY="-12" frameWidth="159" frameHeight="320"/>
+	<SubTexture name="TomWalkingBy0014" x="145" y="641" width="130" height="311" frameX="-28" frameY="-4" frameWidth="159" frameHeight="320"/>
+	<SubTexture name="TomWalkingBy0015" x="285" y="641" width="130" height="311" frameX="-28" frameY="-4" frameWidth="159" frameHeight="320"/>
+</TextureAtlas>

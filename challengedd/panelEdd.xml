@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ChallengEDDMasterFLA.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EddEnterDown0000" x="0" y="0" width="500" height="438"/>
+	<SubTexture name="EddEnterDown0001" x="0" y="0" width="500" height="438"/>
+	<SubTexture name="EddEnterDown0002" x="510" y="0" width="500" height="438"/>
+	<SubTexture name="EddEnterDown0003" x="510" y="0" width="500" height="438"/>
+	<SubTexture name="EddEnterDown0004" x="1020" y="0" width="500" height="438"/>
+	<SubTexture name="EddEnterLeft0000" x="1530" y="0" width="500" height="438"/>
+	<SubTexture name="EddEnterLeft0001" x="1530" y="0" width="500" height="438"/>
+	<SubTexture name="EddEnterLeft0002" x="0" y="448" width="500" height="438"/>
+	<SubTexture name="EddEnterLeft0003" x="0" y="448" width="500" height="438"/>
+	<SubTexture name="EddEnterLeft0004" x="510" y="448" width="500" height="438"/>
+	<SubTexture name="EddEnterRight0000" x="1020" y="448" width="500" height="438"/>
+	<SubTexture name="EddEnterRight0001" x="1020" y="448" width="500" height="438"/>
+	<SubTexture name="EddEnterRight0002" x="1530" y="448" width="500" height="438"/>
+	<SubTexture name="EddEnterRight0003" x="1530" y="448" width="500" height="438"/>
+	<SubTexture name="EddEnterRight0004" x="0" y="896" width="500" height="438"/>
+	<SubTexture name="EddEnterUp0000" x="510" y="896" width="500" height="438"/>
+	<SubTexture name="EddEnterUp0001" x="510" y="896" width="500" height="438"/>
+	<SubTexture name="EddEnterUp0002" x="1020" y="896" width="500" height="438"/>
+	<SubTexture name="EddEnterUp0003" x="1020" y="896" width="500" height="438"/>
+	<SubTexture name="EddEnterUp0004" x="1530" y="896" width="500" height="438"/>
+</TextureAtlas>

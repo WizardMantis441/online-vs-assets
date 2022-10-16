@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ChallengEDDMasterFLA.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MarkIdle0000" x="0" y="0" width="326" height="648" frameX="0" frameY="-13" frameWidth="326" frameHeight="662"/>
+	<SubTexture name="MarkIdle0001" x="0" y="0" width="326" height="648" frameX="0" frameY="-13" frameWidth="326" frameHeight="662"/>
+	<SubTexture name="MarkIdle0002" x="336" y="0" width="320" height="649" frameX="-4" frameY="-13" frameWidth="326" frameHeight="662"/>
+	<SubTexture name="MarkIdle0003" x="336" y="0" width="320" height="649" frameX="-4" frameY="-13" frameWidth="326" frameHeight="662"/>
+	<SubTexture name="MarkIdle0004" x="666" y="0" width="320" height="657" frameX="-3" frameY="-4" frameWidth="326" frameHeight="662"/>
+	<SubTexture name="MarkIdle0005" x="666" y="0" width="320" height="657" frameX="-3" frameY="-4" frameWidth="326" frameHeight="662"/>
+	<SubTexture name="MarkIdle0006" x="996" y="0" width="318" height="660" frameX="-4" frameY="-2" frameWidth="326" frameHeight="662"/>
+	<SubTexture name="MarkIdle0007" x="996" y="0" width="318" height="660" frameX="-4" frameY="-2" frameWidth="326" frameHeight="662"/>
+	<SubTexture name="MarkIdle0008" x="1324" y="0" width="320" height="660" frameX="-3" frameY="-1" frameWidth="326" frameHeight="662"/>
+	<SubTexture name="MarkIdle0009" x="1324" y="0" width="320" height="660" frameX="-3" frameY="-1" frameWidth="326" frameHeight="662"/>
+	<SubTexture name="MarkIdle0010" x="1654" y="0" width="319" height="662" frameX="-4" frameY="0" frameWidth="326" frameHeight="662"/>
+	<SubTexture name="MarkIdle0011" x="1654" y="0" width="319" height="662" frameX="-4" frameY="0" frameWidth="326" frameHeight="662"/>
+	<SubTexture name="MarkIdle0012" x="1324" y="0" width="320" height="660" frameX="-3" frameY="-1" frameWidth="326" frameHeight="662"/>
+	<SubTexture name="MarkIdle0013" x="1324" y="0" width="320" height="660" frameX="-3" frameY="-1" frameWidth="326" frameHeight="662"/>
+</TextureAtlas>
