@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AccelerantMasterFLA.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HellClownHandsIdle0000" x="0" y="0" width="705" height="589" frameX="0" frameY="-4" frameWidth="832" frameHeight="772"/>
+	<SubTexture name="HellClownHandsIdle0001" x="0" y="0" width="705" height="589" frameX="0" frameY="-4" frameWidth="832" frameHeight="772"/>
+	<SubTexture name="HellClownHandsIdle0002" x="715" y="0" width="634" height="643" frameX="-56" frameY="-99" frameWidth="832" frameHeight="772"/>
+	<SubTexture name="HellClownHandsIdle0003" x="715" y="0" width="634" height="643" frameX="-56" frameY="-99" frameWidth="832" frameHeight="772"/>
+	<SubTexture name="HellClownHandsIdle0004" x="1359" y="0" width="645" height="687" frameX="-110" frameY="-85" frameWidth="832" frameHeight="772"/>
+	<SubTexture name="HellClownHandsIdle0005" x="1359" y="0" width="645" height="687" frameX="-110" frameY="-85" frameWidth="832" frameHeight="772"/>
+	<SubTexture name="HellClownHandsIdle0006" x="0" y="697" width="707" height="673" frameX="-125" frameY="-71" frameWidth="832" frameHeight="772"/>
+	<SubTexture name="HellClownHandsIdle0007" x="0" y="697" width="707" height="673" frameX="-125" frameY="-71" frameWidth="832" frameHeight="772"/>
+	<SubTexture name="HellClownHandsIdle0008" x="717" y="697" width="708" height="588" frameX="-53" frameY="-34" frameWidth="832" frameHeight="772"/>
+	<SubTexture name="HellClownHandsIdle0009" x="717" y="697" width="708" height="588" frameX="-53" frameY="-34" frameWidth="832" frameHeight="772"/>
+	<SubTexture name="HellClownHandsIdle0010" x="0" y="1380" width="695" height="609" frameX="-26" frameY="-1" frameWidth="832" frameHeight="772"/>
+	<SubTexture name="HellClownHandsIdle0011" x="0" y="1380" width="695" height="609" frameX="-26" frameY="-1" frameWidth="832" frameHeight="772"/>
+	<SubTexture name="HellClownHandsIdle0012" x="705" y="1380" width="688" height="621" frameX="-23" frameY="0" frameWidth="832" frameHeight="772"/>
+	<SubTexture name="HellClownHandsIdle0013" x="705" y="1380" width="688" height="621" frameX="-23" frameY="0" frameWidth="832" frameHeight="772"/>
+</TextureAtlas>
