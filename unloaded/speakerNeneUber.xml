@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="UnloadedMasterFLA.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="UberKidGettingStabbed0000" x="0" y="0" width="595" height="603" frameX="-282" frameY="0" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0001" x="605" y="0" width="606" height="584" frameX="-256" frameY="-5" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0002" x="605" y="0" width="606" height="584" frameX="-256" frameY="-5" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0003" x="1221" y="0" width="674" height="568" frameX="-226" frameY="-29" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0004" x="1221" y="0" width="674" height="568" frameX="-226" frameY="-29" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0005" x="0" y="613" width="781" height="508" frameX="-132" frameY="-113" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0006" x="0" y="613" width="781" height="508" frameX="-132" frameY="-113" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0007" x="791" y="613" width="925" height="382" frameX="-43" frameY="-273" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0008" x="0" y="1131" width="512" height="366" frameX="-43" frameY="-289" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0009" x="522" y="1131" width="604" height="239" frameX="0" frameY="-438" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0010" x="1136" y="1131" width="558" height="266" frameX="-23" frameY="-417" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0011" x="1136" y="1131" width="558" height="266" frameX="-23" frameY="-417" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0012" x="0" y="1507" width="577" height="261" frameX="-14" frameY="-422" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0013" x="0" y="1507" width="577" height="261" frameX="-14" frameY="-422" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0014" x="0" y="1507" width="577" height="261" frameX="-14" frameY="-422" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0015" x="0" y="1507" width="577" height="261" frameX="-14" frameY="-422" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0016" x="0" y="1507" width="577" height="261" frameX="-14" frameY="-422" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0017" x="0" y="1507" width="577" height="261" frameX="-14" frameY="-422" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0018" x="0" y="1507" width="577" height="261" frameX="-14" frameY="-422" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0019" x="587" y="1507" width="0" height="0" frameX="-395" frameY="-233" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0020" x="587" y="1507" width="0" height="0" frameX="-395" frameY="-233" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0021" x="0" y="1507" width="577" height="261" frameX="-14" frameY="-422" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0022" x="0" y="1507" width="577" height="261" frameX="-14" frameY="-422" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0023" x="587" y="1507" width="0" height="0" frameX="-395" frameY="-233" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0024" x="587" y="1507" width="0" height="0" frameX="-395" frameY="-233" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0025" x="0" y="1507" width="577" height="261" frameX="-14" frameY="-422" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0026" x="0" y="1507" width="577" height="261" frameX="-14" frameY="-422" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0027" x="587" y="1507" width="0" height="0" frameX="-395" frameY="-233" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0028" x="0" y="1507" width="577" height="261" frameX="-14" frameY="-422" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0029" x="587" y="1507" width="0" height="0" frameX="-395" frameY="-233" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0030" x="0" y="1507" width="577" height="261" frameX="-14" frameY="-422" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0031" x="587" y="1507" width="0" height="0" frameX="-395" frameY="-233" frameWidth="968" frameHeight="683"/>
+	<SubTexture name="UberKidGettingStabbed0032" x="0" y="1507" width="577" height="261" frameX="-14" frameY="-422" frameWidth="968" frameHeight="683"/>
+</TextureAtlas>

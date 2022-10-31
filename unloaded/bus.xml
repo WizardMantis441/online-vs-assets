@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="UnloadedMasterFLA.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bus0000" x="0" y="0" width="3154" height="906" frameX="-11" frameY="0" frameWidth="3172" frameHeight="909"/>
+	<SubTexture name="Bus0001" x="0" y="916" width="3166" height="873" frameX="-6" frameY="-31" frameWidth="3172" frameHeight="909"/>
+	<SubTexture name="Bus0002" x="0" y="1799" width="3166" height="897" frameX="0" frameY="-12" frameWidth="3172" frameHeight="909"/>
+</TextureAtlas>
